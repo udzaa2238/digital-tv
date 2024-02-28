@@ -1,1 +1,111 @@
 # test
+ {
+   "name": "For ฟรี อย่านำไปจำหน่าย นะจ๊ะ นะจ๊ะ",
+   "author": "ผู้เฒ่าพเนจร",
+   "url": "http://tiny.cc/freetv2238",
+   "image": "https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1",
+   "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+   
+   "groups": [
+
+                {"name": "♥️ 🇹🇭Refresh 🇹🇭♥️",
+                "image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
+                "url": "http://tiny.cc/freetv2238",
+                "import": false },
+
+   {
+    "name": "♥️ 🇹🇭 DIGITAL TV 🇹🇭♥️",
+    "image": "https://www.dropbox.com/scl/fi/4c9o83rtxjtwmelqq6bvh/digital-tv.jpg?rlkey=gbxqeifo149bocu1ufis4k8o9&dl=1",
+    "url": "https://www.dropbox.com/s/r5t4i9b2xa4mk2n/digital-tv.txt?dl=1",
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+
+   {
+    "name": "♥️ 🇹🇭 SPORTS 🇹🇭♥️",
+    "image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/xlwn5dg5ik51yhz6s4atx/wondering-old-man-sports.w3u?rlkey=wa4b0mu36oopo6izu856vmwzf&dl=1",
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+
+   {
+    "name": "♥️ 🇹🇭 Movies Live 🇹🇭♥️",
+    "image": "https://www.dropbox.com/scl/fi/2o2rg4qrwpe3fly10d5x4/small-movies-green-logo.jpg?rlkey=irngoiqt6aukrx2sqqdmyz2yq&dl=1",
+    "url": "https://www.dropbox.com/s/g3vamukormqgwrz/movies-live.txt?dl=1",
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+
+   {
+    "name": "♥️ 🇹🇭 Documentary 🇹🇭♥️",
+    "image": "https://www.dropbox.com/scl/fi/zbuswmt45bu8g9grgec4e/documentary-brown.jpg?rlkey=obndjcksk1purz5bhhz6zlymj&dl=1",
+    "url": "https://www.dropbox.com/s/08ke7emoxzx36ff/documentary-tv.txt?dl=1",
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+
+   {
+    "name": "♥️ 🇹🇭 Inter Sport 🇹🇭♥️",
+    "image": "https://www.dropbox.com/s/wus3w689i5afxl9/inter-sport.jpg?dl=1",
+    "url": "https://www.dropbox.com/scl/fi/e57bg5btjifonb0sgvwyk/inter-sport.txt?rlkey=hgv1zppfu1lru1q1bh5sbro1p&dl=1",
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+
+   {
+    "name": "♥️ 🇹🇭 Cartoon 🇹🇭♥️",
+    "image": "https://www.dropbox.com/scl/fi/nog3pg6ld6bkeo3bopymx/small-cartoon-tv.jpg?rlkey=tp52l4k921xen69wluqr38eel&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/ez0w0rz2t35d9mgt21xsb/cartoon.w3u?rlkey=gdj0g05dg5sqyj0zm3beo5dgs&dl=1",
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+
+   {
+    "name": "♥️ 🇹🇭 World News 🇹🇭♥️",
+    "image": "https://www.dropbox.com/scl/fi/njeo93p9bq5aea9wx4u8c/1-worldnews-1.jpg?rlkey=n1pe4599jq2ij37vk4uummvk1&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/hpw8uha37n8vi363v7hai/world-news.w3u?rlkey=q0s21d3njmtkdz13s96744oaj&dl=1",
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+
+   {
+    "name": "♥️ 🇹🇭 Movies 🇹🇭♥️",
+    "image": "https://www.dropbox.com/scl/fi/8de3pndvz47u8dd5ta8f9/action-movies-master.jpg?rlkey=n07v2stga4osvrlkxojuxphyk&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/tmk078060rbra4uynernt/movies-folder.txt?rlkey=os3bflmbc98pv02om9ar8z0cz&dl=1",
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+  
+   { 
+    "name": "FreeTVdd", 
+    "image": "https://www.dropbox.com/scl/fi/7qs5ynqeo4f2505a84t6q/freetvdd.png?rlkey=8mvsp0lusu7np3wfu1gm91y5l&dl=1", 
+    "url": "https://www.dropbox.com/s/0al5cw2jz08ii9n/FreeTVdd.txt?dl=1",   
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+  
+   { 
+    "name": "Dookeela", 
+    "image": "https://www.dropbox.com/scl/fi/59nlstp91lwx3fbzzsobk/dookeela.png?rlkey=c2hl12phatd044kwew9q3hegx&dl=1", 
+    "url": "https://www.dropbox.com/scl/fi/mg1b78mdoxfw62642f63x/dookeela.w3u?rlkey=2ls225kqc2nbdbacwx3wfhvg4&dl=1",   
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+
+   {
+    "name": "♥️ 🇹🇭 The Watcher Documentary 🇹🇭♥️",
+    "image": "https://www.dropbox.com/scl/fi/121sjqvv8wxadbl143985/the-watcher.png?rlkey=39m2b6zuny6q18exterdwe4yo&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/9edff7y8bqnm0axno3kmt/wondering-old-man-the-watcher-documentary.w3u?rlkey=dho4yi5af16gx41lri47bmho8&dl=1",
+    "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+    "import": false},
+
+]
+}
+
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+   <title>PlayIDTV</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="PlayIDTV"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://truevisions.co.th/static/package_properties_streaming.png"></h2>
+</center>
+</body>
+</html>
